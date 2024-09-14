@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://github.com/AbdulBasit874/AbdulBasit874.md/assets/143387882/d65c845f-d6d1-4eb5-bb8d-e3655ef5ddfc" >
-</p>
+
 <h1 align="center">Hi 👋, I am Abdul Basit Khan </h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
