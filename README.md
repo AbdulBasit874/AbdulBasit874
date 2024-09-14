@@ -6,7 +6,7 @@
 
 <img align="right" alt="insights" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Basit&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Basit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulBasit874&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Basit" /> </p>
 
 - 🌱 I’m currently learning **Python, BI, mySQL, QGIS, ML**
 
