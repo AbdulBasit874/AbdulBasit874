@@ -1,8 +1,5 @@
-
-
-
-
-
+<p align="center">
+  </p>
 <h1 align="center">Hi 👋, I am Abdul Basit Khan </h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
