@@ -1,7 +1,5 @@
 
-<p align="center">
-    <img src="https://github.com/LaeeqAhmadk/laeeqahmadk.md/assets/143387882/d65c845f-d6d1-4eb5-bb8d-e3655ef5ddfc" alt="Image Alt Text" style="width: 600px; margin-top: 20px;">
-</p>
+
 
 
 
@@ -10,7 +8,7 @@
 
 <img align="right" alt="insights" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laeeq-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Laeeq-Ahmad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit874=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Basit" /> </p>
 
 - 🌱 I’m currently learning **Python, BI, mySQL, QGIS, ML**
 
